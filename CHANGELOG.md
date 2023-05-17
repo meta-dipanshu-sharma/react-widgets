@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.96.0](https://github.com/webex/react-widgets/compare/v0.94.0...v0.96.0) (2023-05-17)
+
+
+### Bug Fixes
+
+* **speedDial:** publishFailed ([0447ab1](https://github.com/webex/react-widgets/commit/0447ab1))
+* **speedDial:** SpeedDialsCount ([43cbad9](https://github.com/webex/react-widgets/commit/43cbad9))
+
+
+### Build System
+
+* trigger circle ci for npm release ([#1308](https://github.com/webex/react-widgets/issues/1308)) ([0ea3db4](https://github.com/webex/react-widgets/commit/0ea3db4))
+
+
+
 ## [0.95.0](https://github.com/webex/react-widgets/compare/v0.94.0...v0.95.0) (2023-05-16)
 
 
